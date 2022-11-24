@@ -1,0 +1,10 @@
+
+:root {
+            --color: red;
+        }
+
+#btnCalcular,
+#btnSubmit,
+#btnBorrar{
+            background-color: var(--color);
+          }       
